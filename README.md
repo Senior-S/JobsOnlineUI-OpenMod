@@ -3,6 +3,9 @@ A simple plugin to check the players or jobs online while press a key!
 
 You need to change the **Code Hotkey #5** to any key.
 
+Medic Permission: SS.JobsOnlineUI.ss.medic
+Police Permission: SS.JobsOnlineUI.ss.police
+
 Where i can download the plugin?
 
 *Here:* https://github.com/Senior-S/JobsOnlineUI-OpenMod/releases/tag/1.0.0 
