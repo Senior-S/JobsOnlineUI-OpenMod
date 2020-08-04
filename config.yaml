@@ -1,0 +1,3 @@
+plugin_configuration:
+  medic_permission: "ss.medic"
+  police_permission: "ss.police"

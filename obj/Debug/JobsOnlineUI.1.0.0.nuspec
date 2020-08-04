@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JobsOnlineUI</id>
+    <version>1.0.0</version>
+    <authors>JobsOnlineUI</authors>
+    <owners>JobsOnlineUI</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">EUPL-1.2</license>
+    <licenseUrl>https://licenses.nuget.org/EUPL-1.2</licenseUrl>
+    <description>Package Description</description>
+    <tags>openmod openmod-plugin unturned</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="OpenMod.UnityEngine.Redist" version="2018.4.23" exclude="Build,Analyzers" />
+        <dependency id="OpenMod.Unturned" version="1.1.9" exclude="Build,Analyzers" />
+        <dependency id="OpenMod.Unturned.Redist" version="3.20.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\maxim\Desktop\Plugins\OpenModPlugins\JobsOnlineUI\bin\Debug\net461\JobsOnlineUI.dll" target="lib\net461\JobsOnlineUI.dll" />
+  </files>
+</package>
