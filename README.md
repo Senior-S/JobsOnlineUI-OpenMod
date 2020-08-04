@@ -7,7 +7,7 @@ Where i can download the plugin?
 
 *Here:* https://github.com/Senior-S/JobsOnlineUI-OpenMod/releases/tag/1.0.0 
 
-*Nuget:* openmod install ss.jobsonlineui
+*Nuget:* `openmod install ss.jobsonlineui`
 
 *Workshop Mod:* https://steamcommunity.com/sharedfiles/filedetails/?id=2138356330
 
