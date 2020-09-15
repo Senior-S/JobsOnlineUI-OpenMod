@@ -1,13 +1,11 @@
 ﻿using System;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Localization;
 using Microsoft.Extensions.Logging;
 using Cysharp.Threading.Tasks;
 using OpenMod.Unturned.Plugins;
 using OpenMod.API.Plugins;
 using SDG.Unturned;
 using OpenMod.API.Permissions;
-using System.Drawing;
 
 [assembly: PluginMetadata("SS.JobsOnlineUI", DisplayName = "JobsOnlineUI")]
 namespace JobsOnlineUI
